@@ -157,4 +157,4 @@ if __name__ == '__main__':
 
     # find_face_smile_eyes("students.jpeg")
     # find_faces_in_video()
-    find_people_in_video("walking_cropped.mov")
+    find_people_in_video("videos/walking_cropped.mov")
